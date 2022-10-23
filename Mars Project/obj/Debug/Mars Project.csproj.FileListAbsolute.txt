@@ -1,0 +1,13 @@
+D:\chesc\Documents\Mars Project\Mars Project\bin\Debug\Mars Project.exe.config
+D:\chesc\Documents\Mars Project\Mars Project\bin\Debug\Mars Project.exe
+D:\chesc\Documents\Mars Project\Mars Project\bin\Debug\Mars Project.pdb
+D:\chesc\Documents\Mars Project\Mars Project\obj\Debug\Mars Project.csproj.AssemblyReference.cache
+D:\chesc\Documents\Mars Project\Mars Project\obj\Debug\Mars_Project.Properties.Resources.resources
+D:\chesc\Documents\Mars Project\Mars Project\obj\Debug\Mars Project.csproj.GenerateResource.cache
+D:\chesc\Documents\Mars Project\Mars Project\obj\Debug\Mars Project.csproj.CoreCompileInputs.cache
+D:\chesc\Documents\Mars Project\Mars Project\obj\Debug\Mars Project.exe
+D:\chesc\Documents\Mars Project\Mars Project\obj\Debug\Mars Project.pdb
+D:\chesc\Documents\Mars Project\Mars Project\obj\Debug\Mars_Project.ReadTextFile.resources
+D:\chesc\Documents\Mars Project\Mars Project\bin\Debug\AltoHttp.dll
+D:\chesc\Documents\Mars Project\Mars Project\bin\Debug\Newtonsoft.Json.dll
+D:\chesc\Documents\Mars Project\Mars Project\bin\Debug\Newtonsoft.Json.xml
